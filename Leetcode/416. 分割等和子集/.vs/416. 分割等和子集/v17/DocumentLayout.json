@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Leetcode\\416. \u5206\u5272\u7B49\u548C\u5B50\u96C6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC4D68D-5857-4482-B130-33AAE2D6964A}|416. \u5206\u5272\u7B49\u548C\u5B50\u96C6.vcxproj|D:\\Leetcode\\416. \u5206\u5272\u7B49\u548C\u5B50\u96C6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEC4D68D-5857-4482-B130-33AAE2D6964A}|416. \u5206\u5272\u7B49\u548C\u5B50\u96C6.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Leetcode\\416. \u5206\u5272\u7B49\u548C\u5B50\u96C6\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Leetcode\\416. \u5206\u5272\u7B49\u548C\u5B50\u96C6\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-26T02:30:09.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
